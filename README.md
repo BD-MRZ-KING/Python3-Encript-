@@ -10,6 +10,6 @@ Encript Marshal Python3 Only
 - pkg install git
 - pip2 install requests
 - pip2 install mechanize
-- git clone https://github.com/BD-MRZ-KING/Python3-Encript
-- cd Python3-Encript
+- git clone https://github.com/BD-MRZ-KING/Python3-Encript-
+- cd Python3-Encript-
 - python python3.py
